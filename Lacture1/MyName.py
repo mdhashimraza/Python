@@ -1,0 +1,5 @@
+print("Md Hashim Raza Azhari Hanafi is my name.","My age is 22")
+print("My age is 22")
+print(22)
+print(36)
+print(25+26)
