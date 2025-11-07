@@ -1,0 +1,5 @@
+tup = (5,4,78,96,3,2,3,25)
+print(tup)
+print(tup.index(3))
+print(tup.count(3))
+print(tup)

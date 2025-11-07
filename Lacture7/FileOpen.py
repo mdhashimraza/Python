@@ -1,0 +1,5 @@
+f =  open("Lacture-7/demo.txt","rt")
+data = f.read()
+print(data)
+print(type(data))
+f.close()

@@ -1,0 +1,10 @@
+marks = {}
+X = int(input("Enter the marks of phy : "))
+marks.update({"phy":X})
+X = int(input("Enter the marks of che : "))
+marks.update({"che":X})
+X = int(input("Enter the marks of math : "))
+marks.update({"math":X})
+X = int(input("Enter the marks of eng : "))
+marks.update({"eng":X})
+print(marks)
